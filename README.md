@@ -9,7 +9,7 @@ const tasnimul = {
             js: [ "React"],
             css: ["bootstrap", "tailwind"]
         },
-        backEnd: ["Node JS"],
+        backEnd: ["Node JS", "Express JS"],
         databases: ["MongoDB"],
     }
 };
