@@ -26,7 +26,16 @@ const tasnimul = {
   <a href="https://github.com/TasnimulHasan007">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TasnimulHasan007&layout=compact&theme=algolia&langs_count=6" />
   </a>
+    
+  <br />
+    
   <a href="https://github.com/TasnimulHasan007">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=TasnimulHasan007&theme=react-dark&hide_title=true&hide_border=true&area=true" />
+  </a>
+    
+  <br />
+    
+  <a href="https://github.com/TasnimulHasan007">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=TasnimulHasan007&show_icons=true&theme=algolia&count_private=true">
   </a>
 </p>
