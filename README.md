@@ -35,7 +35,5 @@ const tasnimul = {
     
   <br />
     
-  <a href="https://github.com/TasnimulHasan007">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=TasnimulHasan007&show_icons=true&theme=algolia&count_private=true">
-  </a>
+  ![Tasnimuls's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasnimulHasan007&show_icons=true&theme=react-dark)
 </p>
